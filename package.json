@@ -1,0 +1,19 @@
+{
+  "name": "event-listener-file-manipulation",
+  "version": "1.0.0",
+  "description": "Lab 16 starter code",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "standard": {
+    "env": "jest"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
